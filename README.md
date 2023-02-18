@@ -1,2 +1,2 @@
-# CV3-TUM
-Course material (slides) and exercise submissions for Computer Vision III: Detektion, Segmentierung und Tracking (IN2375)
+# Computer Vision III: Detektion, Segmentierung und Tracking (IN2375)
+Course material (slides) and code for the exercise submissions.
